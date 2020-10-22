@@ -1,0 +1,9 @@
+Admin Login Details 
+User Name : admin
+User PW : udemy12345
+User Name : cadmin
+User PW : udemy12345
+
+User Login Details 
+User Name :jack@gmail.com
+User PW :udemy123456
